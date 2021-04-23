@@ -4,6 +4,6 @@ In this mini project I wrote a function that generates an x-bar_s control chart.
 
 # Example
 
-Here is the chart that funciton generated for N(
+Here is the chart for an array of random values with distribution N(50,20). The array size is 25x12, which indicates that 25 measurements will be ploted, and each measurement represent a mean value (or standar deviation on the s chart) of a subgroup consisting of 12 samples.
 
-<img src="control_chart.png" width="300" height="300">
+<img src="control_chart.png" width="500" height="500">
